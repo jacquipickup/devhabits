@@ -1,0 +1,7 @@
+Mark,Buys Donuts,donuts
+Veronica,Goes Outside,outside
+Jacqui,Hiccups,hiccups
+Jacqui,Yawns,yawns
+Pierre,Says 'basically',basically
+Dimitri,Sniffs his Wood,wood
+Elton,Is Early,early
